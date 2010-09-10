@@ -17,9 +17,9 @@
    inkscape:version="0.47 r22583"
    sodipodi:docname="SRdirectionposterRight.svg"
    style="enable-background:new"
-   inkscape:export-filename="/home/alex/Pictures/POSTER DESIGNS/SRdirectionposterLeft.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300">
+   inkscape:export-filename="/home/rob/sr/dev/signage/left.png"
+   inkscape:export-xdpi="599.99512"
+   inkscape:export-ydpi="599.99512">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,17 +27,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="504.77338"
-     inkscape:cy="494.65946"
+     inkscape:zoom="0.7"
+     inkscape:cx="198.30576"
+     inkscape:cy="722.45029"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1272"
-     inkscape:window-height="960"
-     inkscape:window-x="1606"
-     inkscape:window-y="52"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1680"
+     inkscape:window-height="976"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
      borderlayer="true" />
@@ -367,74 +367,20 @@
      transform="translate(58.355993,53.274656)"
      id="layer1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
-    <g
-       transform="matrix(0.41104731,0,0,0.41104731,27.433426,27.316078)"
-       id="g2943">
-      <g
-         inkscape:label="Layer 1"
-         id="layer1-2"
-         transform="translate(0.75454682,-329.25543)">
-        <g
-           id="g2930">
-          <g
-             transform="translate(16.661025,0)"
-             id="g2863">
-            <path
-               sodipodi:type="arc"
-               style="fill:#253571;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               id="path2266"
-               sodipodi:cx="347.99756"
-               sodipodi:cy="547.79102"
-               sodipodi:rx="196.47467"
-               sodipodi:ry="196.47467"
-               d="m 544.47223,547.79102 c 0,108.50996 -87.96471,196.47467 -196.47467,196.47467 -108.50997,0 -196.47467,-87.96471 -196.47467,-196.47467 0,-108.50997 87.9647,-196.47467 196.47467,-196.47467 108.50996,0 196.47467,87.9647 196.47467,196.47467 z"
-               transform="translate(-168.93846,-22.060915)"
-               inkscape:export-xdpi="90.238617"
-               inkscape:export-ydpi="90.238617"
-               inkscape:export-filename="/home/rob/sr.png" />
-            <path
-               id="path3255"
-               style="fill:none;stroke:#ffffff;stroke-width:37.70000076;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
-               d="m 38.10219,607.08796 c 0,0 59.59901,-47.98224 118.18786,-58.08377 C 114.87379,535.8722 84.06414,518.19454 37.59711,490.92043 94.16566,462.63615 177.23802,440.47144 178.58737,440.9767 c 1.34935,0.50525 85.28393,21.59853 141.85248,49.88281 -46.46703,27.27411 -75.76145,42.93147 -118.69294,58.58884 52.52794,6.566 117.17771,57.57869 117.17771,57.57869"
-               sodipodi:nodetypes="ccccccc"
-               inkscape:export-filename="/home/rob/sr.png"
-               inkscape:export-xdpi="90.238617"
-               inkscape:export-ydpi="90.238617" />
-          </g>
-          <text
-             sodipodi:linespacing="89.999998%"
-             id="text2834"
-             y="573.71838"
-             x="439.96231"
-             style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:89.99999762%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Eurostile;-inkscape-font-specification:Eurostile"
-             xml:space="preserve"><tspan
-               id="tspan2867"
-               y="573.71838"
-               x="439.96231"
-               sodipodi:role="line">STUDENT ROBOTICS</tspan><tspan
-               y="703.31836"
-               x="439.96231"
-               sodipodi:role="line"
-               id="tspan2937" /></text>
-        </g>
-      </g>
-      <g
-         id="layer2"
-         inkscape:label="2"
-         transform="translate(0.75454682,-329.25543)" />
-    </g>
+     inkscape:label="Layer 1"
+     style="display:inline">
     <g
        inkscape:label="BackGround"
        id="layer3"
        inkscape:groupmode="layer"
-       transform="matrix(0.79344221,0,0,0.79344221,903.23107,213.4556)">
+       transform="matrix(0.79344221,0,0,0.79344221,903.23107,213.4556)"
+       style="display:inline">
       <rect
          style="fill:#0d1f61;fill-opacity:1;stroke:none"
          id="rect3369"
          width="1002.3467"
          height="1256.7302"
-         x="-1174.3798"
+         x="-1163.047"
          y="-314.6604" />
       <rect
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
@@ -449,7 +395,7 @@
        id="g2930-2" />
     <g
        id="g3818"
-       transform="matrix(-1,0,0,-1,736.8931,1044.4038)">
+       transform="matrix(-1,0,0,-1,745.88498,1044.4038)">
       <path
          sodipodi:type="arc"
          style="fill:#0d1f61;fill-opacity:1;stroke:none;enable-background:new"
@@ -473,7 +419,7 @@
     <g
        id="g12"
        inkscape:label="ink_ext_XXXXXX"
-       transform="matrix(0.29082811,0,0,-0.29082811,514.6226,1011.0589)">
+       transform="matrix(0.29082811,0,0,-0.29082811,523.61448,1011.0589)">
       <g
          id="g14"
          transform="matrix(0.1,0,0,0.1,0,-34.171043)">
@@ -517,7 +463,7 @@
     <g
        id="g12-2"
        inkscape:label="ink_ext_XXXXXX"
-       transform="matrix(0.93258722,0,0,-0.93258722,287.77684,1022.4092)">
+       transform="matrix(0.93258722,0,0,-0.93258722,296.76872,1022.4092)">
       <g
          id="g14-6"
          transform="matrix(0.06666667,0,0,0.06666667,0,1.5145233)">
@@ -637,7 +583,7 @@
     <g
        inkscape:label="Layer 1"
        id="layer1-1"
-       transform="matrix(0.23733536,0,0,0.23733536,2.6181953,842.88029)">
+       transform="matrix(0.23733536,0,0,0.23733536,11.610081,842.88029)">
       <g
          transform="matrix(10.000719,0,0,-10.000719,94.862148,9262.1064)"
          id="g3146">
@@ -822,7 +768,7 @@
     </g>
     <g
        id="g3808"
-       transform="translate(3.8374909,0)">
+       transform="translate(3.8374819,0)">
       <text
          transform="scale(1.0322924,0.96871779)"
          sodipodi:linespacing="89.999998%"
@@ -854,14 +800,15 @@
     </g>
   </g>
   <g
-     sodipodi:insensitive="true"
      inkscape:groupmode="layer"
      inkscape:label="Printing Marks"
      id="printing-marks"
-     transform="translate(58.355993,53.274606)">
+     transform="translate(58.355993,53.274606)"
+     sodipodi:insensitive="true">
     <g
        id="CropMarks"
-       inkscape:label="CropMarks">
+       inkscape:label="CropMarks"
+       transform="translate(6.0253233,0)">
       <path
          d="M 0,-17.716535 0,-53.149606"
          id="cropTL1"
@@ -897,7 +844,8 @@
     </g>
     <g
        id="BleedMarks"
-       inkscape:label="BleedMarks">
+       inkscape:label="BleedMarks"
+       transform="translate(6.0253233,0)">
       <path
          d="m -17.716535,-17.716535 0,-35.433071"
          id="bleedTL1"

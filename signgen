@@ -1,0 +1,28 @@
+#!/usr/bin/env python
+
+import argparse
+import signgen
+
+def get_args():
+    parser = argparse.ArgumentParser()
+
+    parser.add_argument('-m', '--msg', required=True,
+                        help="The message to appear on the sign")
+
+    parser.add_argument('-i', '--image',
+                        help="An optional square image to appear "
+                        "below the message")
+
+    parser.add_argument('-s', '--size', default='a4',
+                        help="The size of the output (only a4 right now)")
+
+    parser.add_argument('-o', '--output', required=True,
+                        help="The output PDF filename")
+
+    args = parser.parse_args()
+    return args.size, args.msg, args.image, args.output
+
+
+if __name__ == '__main__':
+    size, msg, image, output = get_args()
+    signgen.generate_PDF(size, msg, output, image_file=image)
